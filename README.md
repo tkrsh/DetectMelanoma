@@ -4,10 +4,22 @@ Melanoma occurs when the pigment-producing cells that give colour to the skin be
 Symptoms might include a new, unusual growth or a change in an existing mole. Melanomas can occur anywhere on the body.
 Treatment may involve surgery, radiation, medication or in some cases, chemotherapy.
 
-Dataset- (https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
+## Dataset Source: 
 
-The images were provided in DICOM format
+### Society for Imaging Informatics in Medicine  
 
+[SIIM-ISIC Melanoma Classification](https://siim.org/page/siim_isic_melanoma_classification)
+
+The images were provided in DICOM format JPEG and TFRecord format.
+
+[Download_From_here](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
+
+## Hardware Used For Training:
+
+  1) TPUs on Kaggle 
+  2) Local Machine  Nvidia GPU  GTX 1660 Ti 
+  3) Inference done on CPU
+  
 ## Library and Language Used :   
 
 Python 3.6 
