@@ -10,7 +10,7 @@ The images were provided in DICOM format
 
 ## Conv Models Used  :
 
-  1) [EfficientNetb0-b7](https://www.google.com/search?q=efficientNet+paper+official&oq=efficientNet+paper+official&aqs=chrome..69i57j0i13i457j0i13l5j69i60.6879j0j4&sourceid=chrome&ie=UTF-8)
+  1) [EfficientNetb0-b7](https://arxiv.org/abs/1905.11946)
   2) [DenseNet 169](https://arxiv.org/abs/1608.06993)
 
 ## Preprocessing Used (Image):
@@ -22,6 +22,7 @@ The images were provided in DICOM format
     2) shear_range = 0.4
     3) Horizontal And Vertical Flipping 
     4) Rescale 
+    
  ## Other Techniques Used:
  
  Generated patient metadadata from DICOM  
