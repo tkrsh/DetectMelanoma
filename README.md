@@ -11,10 +11,11 @@ The images were provided in DICOM format
 ## Library and Language Used :   
 
 Python 3.6 
-  1) TensorFlow I/0  // DICOM handling 
-  2) TensorFlow 2.3  // Deep Learning Model Implementation
-  3) Pydicom 2.0     // DICOM handling
-  4) OpenCv 3.2      // Image Preprocessing
+  1) TensorFlow I/0()  // DICOM handling 
+  2) TensorFlow 2.3()  // Deep Learning Model Implementation
+  3) Pydicom 2.0()    // DICOM handling
+  4) OpenCv 3.2()      // Image Preprocessing
+  5) Pandas 1.13 ()
   
 
 ## Conv Models Used  :
