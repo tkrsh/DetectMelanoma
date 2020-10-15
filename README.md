@@ -8,6 +8,15 @@ Dataset- (https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
 
 The images were provided in DICOM format
 
+## Library and Language Used :   
+
+Python 3.6 
+  1) TensorFlow I/0  // DICOM handling 
+  2) TensorFlow 2.3  // Deep Learning Model Implementation
+  3) Pydicom 2.0     // DICOM handling
+  4) OpenCv 3.2      // Image Preprocessing
+  
+
 ## Conv Models Used  :
 
   1) [EfficientNetb0-b7](https://arxiv.org/abs/1905.11946)
