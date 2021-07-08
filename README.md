@@ -12,7 +12,7 @@ Treatment may involve surgery, radiation, medication or in some cases, chemother
 
 The images were provided in DICOM format JPEG and TFRecord format.
 
-[Download_From_here](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
+[Download Dataset](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
 
 ## Hardware Used For Training:
 
