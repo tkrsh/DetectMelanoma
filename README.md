@@ -53,5 +53,9 @@ Python 3.6
   
 ## Result Obtained :
 
-  ROC = 0.93 - 0.95 [Classes Were Imbalanced]
+  ROC = 0.93  
+  
+  Submissions were evaluated on area under the ROC curve between the predicted probability and the observed target.
+
+
   
