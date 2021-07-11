@@ -38,7 +38,7 @@ Python 3.6
 ## Preprocessing Used (Image):
   
   1) Resizing , zoom and croping 
-  2) Image Augmentation: 
+  2) Image Augmentation 
   
     1) Rotation_range = 180
     2) shear_range = 0.4
